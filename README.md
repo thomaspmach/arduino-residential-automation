@@ -5,7 +5,7 @@ Arduino WEB residential automation prototype with controls of lamps, garage gate
 
 
 **WEB interface:**
-<p><img src="http://i.imgur.com/7BjFKyP.png" width="300"></p>
+<p><img src="http://i.imgur.com/7BjFKyP.png" width="600"></p>
 
 
 
