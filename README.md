@@ -3,7 +3,7 @@ Arduino WEB residential automation prototype with controls of lamps, garage gate
 
 
 **WEB interface to interact with the house prototype:**
-![WEB interface](http://i.imgur.com/u9d5Sfv.png)
+<img src="http://i.imgur.com/u9d5Sfv.png" width="150">
 
 
 
